@@ -131,3 +131,4 @@ dist
 
 .exercism/
 .prettierrc
+.rubocop.yml
